@@ -1,0 +1,44 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+
+.rowmid{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    align-items:center;
+}
+.aboutme{
+    border:1px solid black;  
+}
+.header{
+    display: flex;
+    justify-content:space-around;
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.headshot{
+    height: 50px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+.rowcontact{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.pic{
+    width:400px;
+    
+}
+.content{
+    text-align: center
+}
